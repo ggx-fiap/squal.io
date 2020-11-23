@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="center" name="Template 1" width="1280" height="768">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1589937455020.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1589937455020-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1589937455020-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605979881295.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605979881295-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1605979881295-ie8.css" /><![endif]-->\
       <div id="t-Rectangle_7" class="pie percentage rectangle firer commentable non-processed-percentage hidden non-processed"   datasizewidth="1281px" datasizeheight="100%" dataX="0" dataY="0" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
@@ -169,7 +169,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                   </div>\
                 </div>\
               </div>\
-              <div id="t-Notifications_menu" class="pie richtext firer ie-background commentable non-processed"   datasizewidth="107px" datasizeheight="24px" dataX="1017" dataY="23" >\
+              <div id="t-Notifications_menu" class="pie richtext firer ie-background commentable non-processed"   datasizewidth="100px" datasizeheight="24px" dataX="1156" dataY="25" >\
                 <div class="backgroundLayer"></div>\
                 <div class="paddingLayer">\
                   <div class="clipping">\
@@ -181,13 +181,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                   </div>\
                 </div>\
               </div>\
-              <div id="t-Conversations_menu" class="pie richtext firer ie-background commentable non-processed"   datasizewidth="130px" datasizeheight="24px" dataX="1144" dataY="23" >\
+              <div id="t-Conversations_menu" class="pie richtext firer click ie-background commentable non-processed"   datasizewidth="97px" datasizeheight="24px" dataX="1020" dataY="25" >\
                 <div class="backgroundLayer"></div>\
                 <div class="paddingLayer">\
                   <div class="clipping">\
                     <div class="content">\
                       <div class="valign">\
-                        <span id="rtr-t-Conversations_menu_0">B.I.</span>\
+                        <span id="rtr-t-Conversations_menu_0">Dashboard</span>\
                       </div>\
                     </div>\
                   </div>\
@@ -289,11 +289,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
                  </div>\
                 </div>\
               </div>\
-              <div id="t-Group_1" class="group firer ie-background commentable non-processed" datasizewidth="160px" datasizeheight="43px" dataX="19" dataY="15" >\
-                <div id="t-Image_1" class="pie image firer ie-background commentable non-processed"   datasizewidth="160px" datasizeheight="43px" dataX="0" dataY="0"   alt="image">\
-                    <img src="./images/78f309e1-2d17-4fd5-ac7d-74fbbab36d14.png" />\
+              <div id="t-Group_1" class="group firer ie-background commentable non-processed" datasizewidth="209px" datasizeheight="66px" dataX="19" dataY="6" >\
+                <div id="t-Image_1" class="pie image firer ie-background commentable non-processed"   datasizewidth="209px" datasizeheight="66px" dataX="0" dataY="0"   alt="image">\
+                    <img src="./images/0b06f747-2929-46a7-bdb3-d91688b0a1a7.PNG" />\
                 </div>\
-                <div id="t-Hotspot_1" class="imagemap firer click ie-background commentable non-processed"   datasizewidth="160px" datasizeheight="43px" dataX="0" dataY="0"  >\
+                <div id="t-Hotspot_1" class="imagemap firer click ie-background commentable non-processed"   datasizewidth="209px" datasizeheight="65px" dataX="0" dataY="0"  >\
                     <div class="clickableSpot"></div>\
                 </div>\
               </div>\
@@ -308,9 +308,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-855c0d03-be22-405c-a3e3-1d84a7289207" class="screen growth-both devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="center" name="HB - Transfer" width="1280" height="768">\
     <div id="backgroundBox"></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1589937455020.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1589937455020-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1589937455020-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1605979881295.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1605979881295-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/855c0d03-be22-405c-a3e3-1d84a7289207-1605979881295-ie8.css" /><![endif]-->\
       <div id="s-Background" class="pie rectangle firer commentable non-processed"   datasizewidth="1280px" datasizeheight="860px" dataX="0" dataY="229" >\
        <div class="backgroundLayer"></div>\
        <div class="paddingLayer">\
